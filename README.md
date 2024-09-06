@@ -10,17 +10,23 @@ We identified orders where the quantity of either gloss or posters exceeds 4000 
 **Insight:**  
 A total of 11 orders were found to meet this criterion, indicating a small but significant number of bulk purchases.
 
+![Screenshot (279)](https://github.com/user-attachments/assets/4c1ff713-eb8e-4097-b327-d7e726a808be)
+
 ### 2. Companies with Specific Characteristics
 **Summary:**  
 The query filtered for companies whose names begin with 'C' or 'W' and have a primary contact containing 'ana' but excluding 'eana'.  
 **Insight:**  
 Two companies, "CVS Health" and "Comcast," met the criteria, suggesting targeted marketing opportunities based on specific contact information.
 
+![Screenshot (280)](https://github.com/user-attachments/assets/c4827c0d-d705-42cf-a335-d711f85ed07f)
+
 ### 3. Region, Sales Representatives, and Account Overview
 **Summary:**  
 A list was generated showing regions, sales representatives, and their associated accounts, sorted alphabetically by account name.  
 **Insight:**  
 This overview helps to assess the distribution of accounts across different regions and sales representatives, useful for balancing workloads and strategic planning in sales operations.
+
+![Screenshot (281)](https://github.com/user-attachments/assets/98212133-cfd2-4177-a359-0b06acf1cd02)
 
 ### 4. Total Sales by Account
 **Summary:**  
