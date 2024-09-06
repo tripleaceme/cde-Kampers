@@ -40,6 +40,8 @@ This query calculated the average value of orders placed by each customer, showi
 **Insight:**  
 "Pacific Life" again stood out, with an average order value of 2,550 units, highlighting it as the top customer in terms of both order size and frequency.
 
+![Screenshot (284)](https://github.com/user-attachments/assets/b14dcd83-b9c8-4ebc-bdd7-c639e75fb72a)
+
 ### 6. Number of Accounts by Region
 **Summary:**  
 We analyzed the number of accounts managed in each region, ordered by the highest account count.  
