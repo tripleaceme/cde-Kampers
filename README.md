@@ -46,11 +46,15 @@ We analyzed the number of accounts managed in each region, ordered by the highes
 **Insight:**  
 The regions with the highest concentration of accounts were the North East and West, revealing them as key regions for customer engagement and business presence.
 
+![Screenshot (282)](https://github.com/user-attachments/assets/ed1aa84d-af54-40e4-be0c-d4231a4d2b7e)
+
 ### 7. Number of Orders by Region
 **Summary:**  
 This query counted the number of orders placed within each region, ranked by order volume.  
 **Insight:**  
 The North East region was the most active with 2,357 orders, followed by the South East with 2,024 orders, providing a clear view of where sales activity is highest.
+
+![Screenshot (283)](https://github.com/user-attachments/assets/eb5332fc-f2f5-4391-a0c3-921357037d0a)
 
 ---
 
